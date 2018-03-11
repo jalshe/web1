@@ -1,0 +1,67 @@
+{
+  "bookmarklistCollection": [
+    {
+      "id": "01",
+      "title": "HTML Learning Resources",
+      "bookmarks": [
+        {
+          "id": "04",
+          "title": "W3 Schools",
+          "link": "https://www.w3schools.com/html/"
+        },
+        {
+          "id": "05",
+          "title": "Code Academy",
+          "link": "https://www.codecademy.com/learn/learn-html"
+        },
+        {
+          "id": "06",
+          "title": "Shay Howe",
+          "link": "https://learn.shayhowe.com/html-css/"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "CSS Learning Resources",
+      "bookmarks": [
+        {
+          "id": "07",
+          "title": "W3 Schools",
+          "link": "https://www.w3schools.com/css/"
+        },
+        {
+          "id": "08",
+          "title": "Code Academy",
+          "link": "https://www.codecademy.com/learn/learn-css"
+        },
+        {
+          "id": "09",
+          "title": "Learn Layout",
+          "link": "http://learnlayout.com"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Javascript Learning Resources",
+      "bookmarks": [
+        {
+          "id": "10",
+          "title": "Code Academy",
+          "link": "https://www.codecademy.com/learn/introduction-to-javascript"
+        },
+        {
+          "id": "11",
+          "title": "W3 Schools",
+          "link": "https://www.w3schools.com/js/"
+        },
+        {
+          "id": "12",
+          "title": "Learn JavaScript",
+          "link": "http://www.learn-js.org/"
+        }
+      ]
+    }
+  ]
+}
